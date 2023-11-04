@@ -58,12 +58,12 @@ GenderMag Recorders Assistant is a semi-automated tool that helps users walk thr
     For information on how to do this, please see
      [this](https://help.github.com/en/articles/fork-a-repo) page.
 
-![Location of Fork button](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ1N3dreWM0bHZnNGN6OXptNnZ3bHg1eW53Y2Z4aDVyYmMxMTk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CRDglRzCxPa6fgGAV8/giphy.gif)
+![Location of Fork button](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGozcTVmZmE2bDZ5eTUyeng2OWpwdDR5cGptaTN3dGs2Nzl5ZXNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBXYXxcwnik4o581q8/giphy.gif)
 
 2) On the Recorder's Assistant GitHub page, click on "Clone or 
 download" and then click "Download zip".
 
-![Location of Download Zip](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAxYXJ4bnoyNWJtOG42cjVoeDMzc2p0ZjQzMWU4czRtZ2d3N2RpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OohRP7hsv3DSRCSbk6/giphy.gif)
+![Location of Download Zip](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHI5aDU2eG9uZGd0eXc4bXEzMndiMDh6eDc4OHlqbGMyNGVheWxpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AAuFLGYJGPl2y9390z/giphy.gif)
 
 3) Navigate to the folder on your computer where the *zip file* (not just the file folder) is
 located and extract the zipped files. (Right click on the zipped
@@ -80,7 +80,7 @@ located and extract the zipped files. (Right click on the zipped
 
 6) Enable developer mode by checking the “Developer Mode” slider in the top right.
 
-![Location of Developer Mode](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NmZWVudW5qM3J6dTY1Nmg0dzJ2ZnMzNWZzNzJtdXVkam0yZGR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJbMlZp59d2aVKGznD/200.gif)
+![Location of Developer Mode](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRqOXd4eTgwa20ybHM5bGt0d3V2djdvODVqbHg1dmRsMHM4OTE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcTfeMpGAYAuDsoxNP/giphy.gif)
 
 7) Click on “Load unpacked” under the search bar.
 
