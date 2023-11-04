@@ -58,31 +58,44 @@ GenderMag Recorders Assistant is a semi-automated tool that helps users walk thr
     For information on how to do this, please see
      [this](https://help.github.com/en/articles/fork-a-repo) page.
 
+![Location of Fork button](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ1N3dreWM0bHZnNGN6OXptNnZ3bHg1eW53Y2Z4aDVyYmMxMTk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CRDglRzCxPa6fgGAV8/giphy.gif)
+
 2) On the Recorder's Assistant GitHub page, click on "Clone or 
 download" and then click "Download zip".
+
+![Location of Download Zip](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAxYXJ4bnoyNWJtOG42cjVoeDMzc2p0ZjQzMWU4czRtZ2d3N2RpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OohRP7hsv3DSRCSbk6/giphy.gif)
 
 3) Navigate to the folder on your computer where the *zip file* (not just the file folder) is
 located and extract the zipped files. (Right click on the zipped
  folder -> "Extract All")
-  * After clicking on the intitial downloadeded file, navigate backwards one step in the Files app to reach the zipped folder. 
-    
+  * After clicking on the intitial downloadeded file, navigate backwards one step in the Files app to reach the zipped folder.
+
 4) Open Chrome and click on the icon (⋮) in the top right corner.
-    
-5) Click on “More tools” -> “Extensions”.
-    
+
+![Location of Chrome icon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh6ZjZrM28wOG54NmhiaTQ1NGJjeGZ6dmIxc2szOGlpZzgyc2V0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6KTEnEY8WwzQngsmrD/giphy.gif)
+
+5) Click on “Extensions” -> "Manage Extensions".
+
+![Location of Extensions and Manage Extensions](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20yamU3cjJseGFtanhlemI1aTJuam52ZnBrc3RiaThwYWZrOHVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1PpYH0mBSn8dA3o6KQ/giphy.gif)
+
 6) Enable developer mode by checking the “Developer Mode” slider in the top right.
-    
+
+![Location of Developer Mode](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NmZWVudW5qM3J6dTY1Nmg0dzJ2ZnMzNWZzNzJtdXVkam0yZGR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJbMlZp59d2aVKGznD/200.gif)
+
 7) Click on “Load unpacked” under the search bar.
-    
+
+![Location of Load Unpacked](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhpcXpxdDRzZXd0ZTM4dGNta2s5Ymx1YjluNTduMzZpNzBhdmJ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CFaPt9GdB4IY1JXoU/giphy.gif)
+
 8) Select the extracted *zip file* and click "ok". 
   * Don't select the standard file folder (only the zip file will upload).
 
 9) Click on “Update” under the search bar.
-    
+
+![Location of Update](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRmZHBxcHR0bjhyM2kyeWpmZzdyZTU2NWlrajYwZWdqejFldzR2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B24uR1OQR0dGCfFaFB/giphy.gif)
+
 10) The new extension called ”GenderMag Recorder's Assistant” should be in the 
 top left corner of the extensions.
 
-Tutorial for download on Mac: https://youtu.be/ji1sMHljlLQ
 
 ## Method 2: Install from Chrome Web Store
 <a href="https://chrome.google.com/webstore/detail/gendermag-recorders-assis/efacfbjnfhfaplaglplaljdleimiiflf?hl=en" target="_blank" title=" GenderMag Recorder's Assistant" >
